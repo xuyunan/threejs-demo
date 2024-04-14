@@ -1,3 +1,3 @@
-# THREE DEMO
+# THREEJS DEMO
 
-学习three，记录一些demo
+学习threejs，记录一些demo
